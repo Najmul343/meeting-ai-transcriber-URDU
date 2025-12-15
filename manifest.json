@@ -1,0 +1,9 @@
+{
+  "name": "Urdu Voice AI",
+  "short_name": "UrduVoice",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#ffffff",
+  "orientation": "portrait"
+}

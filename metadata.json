@@ -1,0 +1,7 @@
+{
+  "name": "Meeting Notes mic transcriber",
+  "description": "Multiple mic AI transcribers",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
